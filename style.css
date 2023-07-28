@@ -303,7 +303,7 @@ button {
 
   button {
     display: flex;
-    transform: translateX(10%);
+    transform: translateX(20%);
     text-align: center;
     padding-left: 63px;
     margin-top: 32px;
